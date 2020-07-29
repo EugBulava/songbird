@@ -14,7 +14,7 @@ Songbird - одностраничное приложение, викторина
 3. блок с вариантами ответов
 4. блок с описанием птицы
 
-![screenshot](./songbird/screenshot_birds-quiz.png)
+![screenshot](https://raw.githubusercontent.com/rolling-scopes-school/tasks/master/tasks/songbird/screenshot_birds-quiz.png)
 ### Demo
 https://birds-quiz.netlify.com/ (версия без Extra scope)
 
