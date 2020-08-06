@@ -1,0 +1,28 @@
+.next-level {
+  padding: 0 10px 0 10px;
+}
+
+.next-level-button {
+  font-family: 'Chilanka', cursive;
+  color: #fff;
+  font-size: 20px;
+  padding-top: 5px;
+  width: 100%;
+  height: 35px;
+  background-color: #00bc8c;
+  border-radius: 5px;
+  border: 1px solid #555;
+}
+
+.next-level-button:hover {
+  cursor: pointer;
+  background-color: #00efb2;
+}
+
+.next-level-button:focus {
+  outline: none;
+}
+
+.next-level-button:disabled {
+  background-color: #303030;
+}
