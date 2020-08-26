@@ -36,7 +36,7 @@ export function Choice() {
         event.target.firstChild.style = 'background-color: green'
         store.dispatch(enableButton());
 
-        document.querySelector('.about-bird').querySelector('audio').pause();
+        //document.querySelector('.about-bird').querySelector('.audio-player').pause();
 
         const events = [scorePlusFive,scorePlusFour, scorePlusThree, scorePlusTwo, scorePlusOne];
 

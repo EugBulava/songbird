@@ -9,6 +9,9 @@ import './components/nextLevelButton/nextLevelButton.css'
 import './components/questions/questions.css'
 import './components/endGame/endGame.css'
 import './components/winGame/winGame.css'
+import './components/questions/bird-audio/bird-audio.css'
+import './components/header/catigories/catigories.css'
+import './components/answers/about-bird/about-bird.css'
 import { store } from './core/store';
 import { EndGame } from './components/endGame/endGame';
 import { WinGame } from './components/winGame/winGame';

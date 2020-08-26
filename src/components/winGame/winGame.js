@@ -30,8 +30,8 @@ export function WinGame() {
   //   setButton((<button className="next-level-button repeat-game" onClick={restartGame}>Играть снова!</button>));
   // },5000)
 
-  return (<div className = "questions-end-game questions-win-game">
-    <img alt="mem" src="https://cs8.pikabu.ru/post_img/2016/11/10/10/1478799888167385024.jpg"></img>
+  return (<div className = "questions-win-game">
+    <img className="mem" alt="mem" src="https://cs8.pikabu.ru/post_img/2016/11/10/10/1478799888167385024.jpg"></img>
     <span className="win-win-text">Tеперь ты знаешь, кто чирикнул!</span>
     <button className="next-level-button repeat-game" onClick={restartGame}>Играть снова!</button>
   </div>);
