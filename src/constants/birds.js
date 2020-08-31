@@ -2,301 +2,301 @@ export const birdsData = [
   [       
     {
       id: 1,
-      name: 'Ворон',
-      species: 'Corvus corax',
-      description: 'Ворон – крупная птица. Длина тела достигает 70 сантиметров, размах крыльев – до полутора метров. Вороны населяют окрестности Тауэра. В Англии бытует поверье, что в день, когда черные вороны улетят от Тауэра, монархия рухнет.',
-      image: 'https://live.staticflickr.com//65535//49298804222_474cfe8682.jpg',
-      audio: 'https://www.xeno-canto.org/sounds/uploaded/XIQVMQVUPP/XC518684-Grands%20corbeaux%2009012020%20Suzon.mp3'
+      name: 'Дикуша',
+      species: 'Falcipennis falcipennis',
+      description: 'Дикуша – одна из редких и малоизученных птиц семейства тетеревиных. Внесена в Красную книгу МСОП, Красную книгу РФ.',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/6/66/Falcipennis_falcipennis_displaying.jpg',
+      audio: 'https://www.xeno-canto.org/sounds/uploaded/NETFZPZEUQ/XC349445-falcipennis%20falcipennis.mp3'
     },
     {
       id: 2,
-      name: 'Журавль',
-      species: 'Grus grus',
-      description: 'Звуки, издаваемые журавлем, похожи на звонкое «кур-лы – кур-лы». Журавли чаще всего поют дуэтом – одна птица начинает запев со слога «кур», а вторая подхватывает «лы». Если птица поёт одна, то она издает только звук «кур».',
-      image: 'https://live.staticflickr.com/65535/49221158846_b0b69a58f1.jpg',
-      audio: 'https://www.xeno-canto.org/sounds/uploaded/BLMSIUFTFU/XC512582-190604_1087_Grus_tok.mp3'
+      name: 'Белая куропатка',
+      species: 'Lagopus lagopus',
+      description: 'Белая куропатка - птица подсемейства тетеревиных отряда курообразных. Обитатель тундры, тайги и лесов Северного полушария.',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/a/a3/Willow_grouse_standing.jpg',
+      audio: 'https://www.xeno-canto.org/sounds/uploaded/MNQLBOLQFS/XC571265-Dalripa_Arjeplogsfj%C3%A4llen_Juni2020_200614-094046.mp3'
     },
     {
       id: 3,
-      name: 'Ласточка',
-      species: 'Delichon urbicum',
-      description: 'Для ласточек характерно негромкое щебетание. Песни ласточек не смолкают на протяжении всего лета. Исследователи различают у птиц до 6 щебечущих звуков: «вит», «ви-вит», «чивит», «чиривит» и т.п. Ласточки любят петь дуэтом.',
-      image: 'https://live.staticflickr.com//65535//48539007512_5029d2a9a0.jpg',
-      audio: 'https://www.xeno-canto.org/sounds/uploaded/VOLIQOYWKG/XC489247-190724_09.10h_huiszwaluw_biesbosch_amaliahoeve_roep_100%2Bex_fouragerend_gezien_%20%282%29.mp3'
+      name: 'Глухарь',
+      species: 'Tetrao urogallus',
+      description: 'Глухарь - крупная птица из семейства фазановых, отряда курообразных. Названием «глухарь» птица обязана известной особенности токующего в брачный период самца утрачивать чуткость и бдительность, чем часто пользуются охотники.',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Capercaillie_%288751340764%29.jpg/1024px-Capercaillie_%288751340764%29.jpg',
+      audio: 'https://www.xeno-canto.org/sounds/uploaded/BPSDQEOJWG/XC554017-%282020-05-02%2004-27%29-LS143782%20-%20kopia.mp3'
     },
     {
       id: 4,
-      name: 'Козодой',
-      species: 'Caprimulgus europaeus',
-      description: 'Козодой – неприметная птица, известная благодаря своему голосу. Песня козодоя звучит как монотонная трель похожая на тарахтение мотоцикла. Такое дребезжание слышно от заката до рассвета, его тональность, частота и громкость изменяются. ',
-      image: 'https://live.staticflickr.com/65535/48456345286_dbc8530027.jpg',
-      audio: 'https://www.xeno-canto.org/sounds/uploaded/VOLIQOYWKG/XC486956-190623_22.37h_nachtzwaluw_rechte%20heide_zang_ad%20_2ex_gezien_.mp3'
+      name: 'Рябчик',
+      species: 'Bonasa bonasia',
+      description: 'Рябчик — птица из рода рябчиков, подсемейства тетеревиных, семейства фазановых отряда курообразных. ',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/3/3b/Haselhuhn-01.jpg',
+      audio: 'https://www.xeno-canto.org/sounds/uploaded/VJTMVNCHXA/XC528040-NWS_Sinlahekin_RuffedGrouse_drumming_edited_XC.mp3'
     },
     {
       id: 5,
-      name: 'Кукушка',
-      species: 'Cuculus canorus',
-      description: 'Кукушку назвали так из-за особенностей ее песен. Звонкое «ку-ку» не спутать ни с какой другой птицей. Кукушки не строят гнезда, их потомство выращивают другие виды пернатых, которым кукушки подбрасывают свои яйца.',
-      image: 'https://live.staticflickr.com/65535/48377838151_e15f430ec1.jpg',
-      audio: 'https://www.xeno-canto.org/sounds/uploaded/VOLIQOYWKG/XC501461-190616_08.13h_koekoek_brabantse%20biesbosch%20jantjesplaat_roep_1%20ex_ad%20m_ter%20plaatse%20zingend_gezien_.mp3'
+      name: 'Кеклик',
+      species: 'Alectoris',
+      description: 'Кеклики, или каменные куропатки, или горные курочки — род птиц подсемейства куропатковых (Perdicinae) семейства фазановых. Отличаются компактным телосложением, короткой шеей, крупной головой с коротким выгнутым клювом',//, лапами средней высоты с притуплённой шпорой, а также крыльями средней длины и весьма длинным хвостом.',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/7/77/Alectoris-chukar-001.jpg',
+      audio: 'https://www.xeno-canto.org/sounds/uploaded/SDPCHKOHRH/XC569249-Perdrix%20bartavelle%20chant%20et%20cris%20rapeux%20en%20series.mp3'
     },
     {
       id: 6,
-      name: 'Синица',
-      species: 'Parus major',
-      description: 'В щебетании синиц различают более 40 различных звуковых сочетаний. Поют они практически круглый год, немного затихая только зимой. Синицы настоящие санитары леса. Одна пара синиц в период гнездования оберегает от вредителей десятки деревьев.',
-      image: 'https://live.staticflickr.com//65535//49366042493_c48c81d58d.jpg',
-      audio: 'https://www.xeno-canto.org/sounds/uploaded/RFGQDPLDEC/XC518417-Kj%C3%B8ttmeis%20XC%20Helg%C3%B8ya%20Elias%20A.%20Ryberg20200108133922_079.mp3'
+      name: 'Кавказский тетерев',
+      species: 'Lyrurus mlokosiewiczi',
+      description: 'Кавказский тетерев— крупная птица семейства фазановых (Phasianidae).Один из наименее изученных видов тетеревов по причине труднодоступности мест обитания.',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Tetras_du_caucase_jogo_0g.jpg/800px-Tetras_du_caucase_jogo_0g.jpg',
+      audio: 'https://www.xeno-canto.org/sounds/uploaded/CEYSYKSPYR/XC178542-Lyrurus%20mlokosiewiczi.mp3'
     }
   ],
   [
     {
       id: 1,
-      name: 'Воробей',
-      species: 'Passer domesticus',
-      description: 'Воробьи являются самыми известными и узнаваемыми пернатыми. Их легко узнать по пестрому оперению и задорному чириканью. Воробьи относятся к синатропному виду — они селятся поблизости к человеческому жилищу.',
-      image: 'https://live.staticflickr.com//65535//49366595303_06cf65b07e.jpg',
-      audio: 'https://www.xeno-canto.org/sounds/uploaded/CXFHOPIVAS/XC503224-191020_0134.mp3'
+      name: 'Гуменник',
+      species: 'Anser fabalis',
+      description: 'Гуменник — водоплавающая птица из семейства утиных. Вид рода гуси, в котором могут выделять ряд подвидов.',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/1/15/Bean.goose.600pix.jpg',
+      audio: 'https://www.xeno-canto.org/sounds/uploaded/ZNHUUXHXZS/XC536294-ansfab_202003_19_20_yom_2036.mp3'
     },
     {
       id: 2,
-      name: 'Грач',
-      species: 'Corvus frugilegus',
-      description: 'Грачи очень умные и сообразительные птицы. С помощью клюва они создают и используют простейшие орудия. У грачей развит рефлекс на звуки трактора. Услышав «тарахтение», они летят на звук – трактор пашет землю, значит, в этом месте много корма.',
-      image: 'https://live.staticflickr.com//65535//49347123322_291c86b016.jpg',
-      audio: 'https://www.xeno-canto.org/sounds/uploaded/RLRHCUIPIY/XC512540-gawron%20Suble%2019.12.19%20%2012.35.mp3'
+      name: 'Пискулька',
+      species: 'Anser erythropus',
+      description: 'Пискулька — птица семейства утиных, мелкий гусь. Название своё получила за писк, издаваемый в полёте.',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Anser_erythropus.jpg/1024px-Anser_erythropus.jpg',
+      audio: 'https://www.xeno-canto.org/sounds/uploaded/MMEJYLOPDO/XC564391-Fj%C3%A4llg%C3%A5s_06.mp3'
     },
     {
       id: 3,
-      name: 'Галка',
-      species: 'Coloeus monedula',
-      description: 'Слово «галка» произошло из старославянского языка и переводится как «чёрный». Этим словом часто называют воронов или других черных птиц. Латинское название галки «monedula» связывают со словами монета за любовь птицы к блестящим и ярким вещам.',
-      image: 'https://live.staticflickr.com//65535//49237149586_993cf685c5.jpg',
-      audio: 'https://www.xeno-canto.org/sounds/uploaded/GYAUIPUVNM/XC510498-Coloeus%20monedula_2019.11.13_11.55_01.mp3'
+      name: 'Мандаринка',
+      species: 'Aix galericulata',
+      description: 'Мандаринка — небольшая птица рода лесных уток семейства утиных.Длина крыла взрослых мандаринок варьирует в пределах 210—245 мм.',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Aix_galericulata_%28couple%29.jpg/1280px-Aix_galericulata_%28couple%29.jpg',
+      audio: 'https://www.xeno-canto.org/sounds/uploaded/YDQKMZXDRL/XC534776-DM673134_bereinigt_MaE-bei%204min-Noise.mp3'
     },
     {
       id: 4,
-      name: 'Певчий дрозд',
-      species: 'Turdus philomelos',
-      description: 'Дрозд — лучший певец из отряда воробьиных. Песня состоит только из красивых звучных свистов и коротких трелей. Чаще всего её можно услышать в утреннее и вечернее время. Поют дрозды в течении всего периода гнездования.',
-      image: 'https://live.staticflickr.com/65535/48979125763_e2534f54bd.jpg',
-      audio: 'https://www.xeno-canto.org/sounds/uploaded/BLMSIUFTFU/XC513326-190704_1146_TF-Glogow.mp3'
+      name: 'Чирок-клоктун',
+      species: 'Sibirionetta formosa',
+      description: 'Чирок-клоктун или клоктун — вид птиц из семейства утиных, единственный в роде Sibirionetta.Селезень этого вида имеет тёмную голову с рисунком из комбинации чёрного, жёлтого и зелёного цветов. Масса взрослой птицы 500—600 г, а длина тела 22 см.',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Anas_formosa_%28male%29.jpg/275px-Anas_formosa_%28male%29.jpg',
+      audio: 'https://www.xeno-canto.org/sounds/uploaded/CDTGHVBGZP/XC380277-Baikal%20Teal2017-6-30-4.mp3'
     },
     {
       id: 5,
-      name: 'Сорока',
-      species: 'Pica pica',
-      description: 'Сорока очень трудолюбивая птица. Она строит до восьми гнёзд, а потом выбирает из них самое лучшее. Вход в гнездо сорок всегда обращен на юг, чтобы в жилище было теплее. Сороки являются единственными птицами, которые узнают себя в зеркале.',
-      image: 'https://live.staticflickr.com//65535//49360363066_ff02bb6a73.jpg',
-      audio: 'https://www.xeno-canto.org/sounds/uploaded/GYAUIPUVNM/XC500868-Pica%20pica2019.08.23_09.18_02.mp3'
+      name: 'Кряква',
+      species: 'Anas platyrhynchos',
+      description: 'Кряква — птица из семейства утиных (Anatidae) отряда гусеобразных (Anseriformes). Наиболее известная и распространённая дикая утка. Длина тела самца около 62 см, самки — около 57 см, масса достигает 1—1,5 кг.',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Anas_platyrhynchos_male_female_quadrat.jpg/1024px-Anas_platyrhynchos_male_female_quadrat.jpg',
+      audio: 'https://www.xeno-canto.org/sounds/uploaded/GQMCPIVNXX/XC369832-Yellow-billed%20Duck.mp3'
     },
     {
       id: 6,
-      name: 'Сойка',
-      species: 'Garrulus glandarius',
-      description: 'Когда сойка волнуется, хохолок на её голове взъерошивается. Птица старается создать устрашающее зрелище. Сойки умеют имитировать голоса других птиц, животных и звуки, которые создает человек. На зиму они делают большие запасы желудей и орехов.',
-      image: 'https://live.staticflickr.com//65535//49369678956_9a7465c7f4.jpg',
-      audio: 'https://www.xeno-canto.org/sounds/uploaded/TFOGOENSTQ/XC501517-191008_1590%201300.%20Eichelh%C3%A4her%20D%2C%20NW%2C%20LEV.%20Stephan%20Risch.mp3'
+      name: 'Шилохвость',
+      species: 'Anas acuta',
+      description: 'Шилохвость или (устар.) шилень — многочисленная и одна из наиболее распространённых уток в мире. Гнездится на разнообразных внутренних водоёмах Европы, Азии и Северной Америки.',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/0/0b/Northern_Pintails_%28Male_%26_Female%29_I_IMG_0911.jpg',
+      audio: 'https://www.xeno-canto.org/sounds/uploaded/CFRYARSVHN/XC494802-Toicinho.mp3'
+    }
+  ],
+  [
+    {
+      id: 1,
+      name: 'Каравайка',
+      species: ' Plegadis falcinellus',
+      description: 'Каравайка — широко распространённая птица из семейства ибисовых. Длина тела 48—66 см (в среднем около 56 см), размах крыльев 88—105 см, длина крыла 25—30 см, длина клюва 9—11 см. Масса тела может варьировать от 485 до 970 г.',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Plegadis_falcinellus_Syracuse.jpg/1024px-Plegadis_falcinellus_Syracuse.jpg',
+      audio: 'https://www.xeno-canto.org/sounds/uploaded/PNYKOPBQBQ/XC530553-PLEFAL240220-T004%20%282%29.mp3'
+    },
+    {
+      id: 2,
+      name: 'Колпица',
+      species: 'Platalea leucorodia',
+      description: 'Колпица или обыкновенная колпица — болотная птица семейства ибисовых, подсемейства колпицы. Колпица достигает длины 1 м, веса в 1,2—2 кг. Размах крыльев 115—135 см. Окраска обыкновенной колпицы белая, клюв и ноги чёрные.',//В брачном наряде у колпиц развивается хохолок на затылке и охристое пятно в основании шеи',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Loeffler.jpg/1280px-Loeffler.jpg',
+      audio: 'https://www.xeno-canto.org/sounds/uploaded/RNMRWBXEZJ/XC580606-Lepelaar%2C%20juveniel%2Cflight%20call%2C%20begging%20call%2C%20IGS%2C%20030820%2C%200058%20uur.mp3'
+    },
+    {
+      id: 3,
+      name: 'Священный ибис',
+      species: 'Threskiornis aethiopicus',
+      description: 'Священный ибис — птица из семейства ибисовых. Название своё получил потому, что был священной птицей в древнем Египте. Длина тела составляет в среднем 75 см.',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Helig_ibis_%28Threskiornis_aethiopicus%29.jpg/800px-Helig_ibis_%28Threskiornis_aethiopicus%29.jpg',
+      audio: 'https://www.xeno-canto.org/sounds/uploaded/SGLTZLDXYI/XC309388-sacred%20ibis%20chick.mp3'
+    },
+    {
+      id: 4,
+      name: 'Белый аист',
+      species: 'Ciconia ciconia',
+      description: 'Белый аист — крупная болотная птица из семейства аистовых.Рост белого аиста составляет 100—125 см, размах крыльев 155—200 см. Масса взрослой птицы достигает 4 кг. ',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ciconia_ciconia_01.JPG/800px-Ciconia_ciconia_01.JPG',
+      audio: 'https://www.xeno-canto.org/sounds/uploaded/GYAUIPUVNM/XC490193-2019.07.06_15.37_01.mp3'
+    },
+    {
+      id: 5,
+      name: 'Амурский волчок',
+      species: 'Ixobrychus eurhythmus',
+      description: 'Амурский волчок — птица семейства цаплевых.Небольшая цапля длиной от 33 до 39 см. Оперение красно-бурого цвета, брюхо светлое, клюв и ноги жёлтые. У самца в противоположность самке спина каштанового цвета.',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/a/a2/Von_Schrenck%27s_Bittern_%28Ixobrychus_eurhythmus%29%2C_Central_Catchment_Nature_Reserve%2C_Singapore_-_20140327.jpg',
+      audio: 'https://www.xeno-canto.org/sounds/uploaded/XVXHTBZRRW/XC319945-Schrenck%27s%20Bittern%20song%2020160601%202039%20RUS%20OA%20Muraviovka%20Park%20TW%20LS_5.mp3'
+    },
+    {
+      id: 6,
+      name: 'Большая выпь',
+      species: 'Botaurus stellaris',
+      description: 'Большая выпь  — птица семейства цаплевых (Ardeidae). В настоящее время находится под угрозой исчезновения как вид на территории Москвы.Масса тела самца около 1 кг, иногда до 1,9 кг, рост до 70 см и выше, самки несколько меньше. Длина крыла у самцов в среднем 34 см, у самок — 31 см.',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bittern_-_Botaurus_stellaris.jpg/800px-Bittern_-_Botaurus_stellaris.jpg',
+      audio: 'https://www.xeno-canto.org/sounds/uploaded/GCTHJSYXXM/XC559712-200519_0303%20Raadas%20kaulushaikara%203.mp3'
+    }
+  ],
+  [
+    {
+      id: 1,
+      name: 'Цветной бекас',
+      species: 'Rostratula benghalensis',
+      description: 'Цветной бекас — вид птиц из семейства цветных бекасов (Rostratulidae).С прямым длинным клювом и с широкими короткими крыльями. Размер птицы 19—24 см. Длина крыла 11,5—14,75 см, хвоста 4—5 см, клюва 4—5,1 см, плюсны 4—4,5 см.',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Rostratula_benghalensis.jpg/800px-Rostratula_benghalensis.jpg',
+      audio: 'https://www.xeno-canto.org/sounds/uploaded/USJPNRHDGY/XC206311-131012_04_Greater%20Painted-snipe%E9%9B%9B%E9%B3%A5.mp3'
+    },
+    {
+      id: 2,
+      name: 'Ходулочник',
+      species: 'Himantopus himantopus',
+      description: 'Ходулочник — птица семейства шилоклювковых (Recurvirostridae). Занесена в красную книгу России.Длина туловища достигает от 33 до 36 сантиметров, из которых 6 сантиметров приходится на клюв.',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/SL_Bundala_NP_asv2020-01_img09.jpg/275px-SL_Bundala_NP_asv2020-01_img09.jpg',
+      audio: 'https://www.xeno-canto.org/sounds/uploaded/JYPQCEFKAM/XC585566-200801-100507pernilongo.mp3'
+    },
+    {
+      id: 3,
+      name: 'Бегунок',
+      species: ' Cursorius cursor',
+      description: 'Бегунок — птица из семейства тиркушковых отряда ржанкообразных. Длина 19—22 см. Большая часть оперения желтовато-песочная, верх головы тёмный, через глаза и затылок проходит узкая чёрная полоска, над которой расположена белая.', // Брюхо белое, концы крыльев чёрные, клюв и ноги голубовато-серые. Самец и самка имеют схожую окраску.',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/3/37/Cream-coloured_Courser_%28Cursorius_cursor%29_Tal_Chhapar%2C_Churu%2C_Rajasthan%2C_India_February_15th%2C_2013.jpg',
+      audio: 'https://www.xeno-canto.org/sounds/uploaded/EYDMHIJPXV/XC326739-Inland%20Dotterel%20AUDIO.mp3'
+    },
+    {
+      id: 4,
+      name: 'Чибис',
+      species: 'Vanellus vanellus',
+      description: 'Чибис или пигалица — небольшая птица семейства ржанковых. Клюв чёрный; глаз тёмно-бурый; четырехпалые ноги малиновые. Размеры крыла 21,5—23,75 сантиметра.',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Kiebitz_050424ausschnitt.jpg/1024px-Kiebitz_050424ausschnitt.jpg',
+      audio: 'https://www.xeno-canto.org/sounds/uploaded/ZFHRWDKKKS/XC575383-2020-07-12-23h44-vanneau-hupp%C3%A9.mp3'
+    },
+    {
+      id: 5,
+      name: 'Тулес',
+      species: 'Pluvialis squatarola',
+      description: 'Тулес— птица семейства ржанковых (Charadriidae). Гнездится в арктической тундре. Длина тела от 26 до 29 см, вес 170—320 г. Размах крыльев от 56 до 63 см. ',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Pluvialis_squatarola_%28summer_plumage%29.jpg/1280px-Pluvialis_squatarola_%28summer_plumage%29.jpg',
+      audio: 'https://www.xeno-canto.org/sounds/uploaded/FWZHXTNMKN/XC585630-NFC_PLUSQU.mp3'
+    },
+    {
+      id: 6,
+      name: 'Галстучник',
+      species: 'Charadrius hiaticula',
+      description: 'Галстучник — птица рода зуйки (Charadrius) из семейства ржанковых (Charadriidae).Небольшая птица крупнее воробья, обитающая на песчаных или галечниковых участках на берегах рек, озёр и морей.',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/a/a6/Charadrius_hiaticula_He.jpg',
+      audio: 'https://www.xeno-canto.org/sounds/uploaded/SDPCHKOHRH/XC575773-Envol%20limis%20divers%20dont%20grand%20gravelot%20et%20cocorli%20non%20audible.mp3'
+    }
+  ],
+  [
+    {
+      id: 1,
+      name: 'Черноголовая гаичка',
+      species: 'Poecile palustris',
+      description: 'Черноголовая или болотная гаичка — вид птиц из семейства синицевых (Paridae).Общая длина 12—14 см, размах крыльев 18—20 см, масса 10—15 г[6].',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/3/3a/Parus_palustris02.jpg',
+      audio: 'https://www.xeno-canto.org/sounds/uploaded/RVLNPQSYVW/XC570923-200623_19.6%28marsh%20tit%29.mp3'
+    },
+    {
+      id: 2,
+      name: 'Восточная синица',
+      species: 'Parus minor',
+      description: 'Восточная синица — вид воробьинообразных птиц из рода синицы, который вытеснил сходный вид большая синица (Parus major) в Японии и на Дальнем Востоке Российской Федерации в Среднем Приамурье, а также на Сахалине и Курильских островах. Залёты этого вида были отмечены на Камчатке',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Parus_minor_%28side%29.JPG/1280px-Parus_minor_%28side%29.JPG',
+      audio: 'https://www.xeno-canto.org/sounds/uploaded/ZPYEHLWXXX/XC576649-Tit%2C%20Japanese_2018-05-18_1405_Japan_Amami_ShizenKansatsuNoMori.mp3'
+    },
+    {
+      id: 3,
+      name: 'Белая лазоревка',
+      species: 'Cyanistes cyanus',
+      description: 'Белая лазоревка или князёк — небольшая певчая птица семейства синицевых, распространённая преимущественно в Европе восточнее Белоруссии, южной Сибири и Средней Азии. Ведёт оседлый образ жизни, в зимнее время кочует в пределах гнездового ареала.',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Azure_Tit_-_Cyanistes_cyanus.jpg/1024px-Azure_Tit_-_Cyanistes_cyanus.jpg',
+      audio: 'https://www.xeno-canto.org/sounds/uploaded/NRUIFMFTXY/XC527294-Azure%20Tit%20Jalman%20170601_3230.mp3'
+    },
+    {
+      id: 4,
+      name: 'Обыкновенный ремез',
+      species: 'Remiz pendulinus',
+      description: 'Обыкновенный ремез — певчая птица семейства Ремезы.Длина тела ремеза примерно 12 см, вес до 20 г. Длина крыла до 60 мм. В глаза бросается серая голова с чёрной маской и красно-бурая спина. У молодых птиц чёрной маски ещё нет.',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/7/72/Remiz_pendulinus_%28Marek_Szczepanek%29.jpg',
+      audio: 'https://www.xeno-canto.org/sounds/uploaded/IJRRKWZVQN/XC559369-rempen%20m%20%C3%A4n%20also%20carspi%20halias%20200518.mp3'
+    },
+    {
+      id: 5,
+      name: 'Хохлатая синица',
+      species: 'Lophophanes cristatus',
+      description: 'Хохлатая синица или гренадёрка, гренадёр — небольшая певчая птица семейства синицевых, распространённая на большей части Европы. В северных и средних широтах обычна в хвойных, реже смешанных лесах.',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Lophophanes_cristatus_-_01.jpg/1024px-Lophophanes_cristatus_-_01.jpg',
+      audio: 'https://www.xeno-canto.org/sounds/uploaded/GYAUIPUVNM/XC562620-lophophanes%20cristatus_2020.05.26_09.18_01.mp3'
+    },
+    {
+      id: 6,
+      name: 'Желтобрюхая синица',
+      species: 'Periparus venustulus',
+      description: 'Желтобрюхая синица — мелкий вид синиц из семейства Paridae, обитающий в западной и центральной части Китая. Близка к московке. Область встреч во внегнездовое время довольно велика.', //часто встречается в составе крупных смешанных стаек птиц.',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/7/75/Yellow-bellied_Tit_%28Pardaliparus_venustulus%29_%288077149502%29.jpg',
+      audio: 'https://www.xeno-canto.org/sounds/uploaded/LOAVJDRPYN/XC565092-%20-%2020200601%20-%20820%20Forestry%20Station.mp3'
     }
   ],
   [
     {
       id: 1,
       name: 'Зяблик',
-      species: 'Fringilla coelebs',
-      description: 'В дикой природе насчитывается 450 видов зябликов. Зимой зяблики ведут стайный образ жизни. Иногда в их семьях можно увидеть воробьев. Запевают зяблики весной, с наступлением брачного периода. Их пение – это заливистые многоминутные рулады.',
-      image: 'https://live.staticflickr.com/65535/49143150817_2d3a2f6c1e.jpg',
-      audio: 'https://www.xeno-canto.org/sounds/uploaded/ZNCDXTUOFL/XC512407-150622_03%20zi%C4%99ba%20%282%29.mp3'
+      species: 'Fringílla coélebs',
+      description: 'Зяблик — певчая птица семейства вьюрковых. Размер — 14—18 см. Ярко выражен половой диморфизм.',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Fringilla_coelebs_chaffinch_male_edit2.jpg/800px-Fringilla_coelebs_chaffinch_male_edit2.jpg',
+      audio: 'https://www.xeno-canto.org/sounds/uploaded/BYLLSJRVDZ/XC551371-0856%20BLL518-23%20Pachyramphus%20polychopterus.mp3'
     },
     {
       id: 2,
-      name: 'Клёст',
-      species: 'Loxia curvirostra',
-      description: 'Клестов называют «рождественскими» птицами. В естественных условиях они дают потомство зимой – в январе. Эти птицы утепляют свои гнезда мхом и шерстью животных, потому птенцам не холодно. В поисках шишек клесты могут улетать за 3500 км от гнезда.',
-      image: 'https://live.staticflickr.com//65535//49365470123_f2de66bb35.jpg',
-      audio: 'https://www.xeno-canto.org/sounds/uploaded/OTVUCEGYZN/XC495381-Kruisbek%20roep%20NHD%20290619.mp3'
-    },
-    {
-      id: 3,
-      name: 'Горлица',
-      species: 'Streptopelia turtur',
-      description: 'Горлица обитает в смешанных и широколиственных лесах, а также в городских парках и поселках. Птицы часто выбирают места жизни рядом с человеком и легко привыкают к людям. Благодаря мелодичному приятному пению горлиц часто разводят в домашних условиях.',
-      image: 'https://live.staticflickr.com/65535/48063004977_84252f9ceb.jpg',
-      audio: 'https://www.xeno-canto.org/sounds/uploaded/ZNCDXTUOFL/XC324106-Turkawka_Streptopelia_turtur_Poland_Jarek_Matusiak_2011625_07.mp3'
-    },
-    {
-      id: 4,
-      name: 'Дятел',
-      species: 'Dendrocopos major',
-      description: 'Дятел – заметная и шумная птица, часто живет рядом с человеком. С середины января до конца июня можно услышать «барабанную дробь» дятлов – трель от вибрации веток под быстрыми ударами клюва птицы. В хорошую погоду дробь слышна в радиусе 1,5 км.',
-      image: 'https://live.staticflickr.com/65535/49339376578_e933426455.jpg',
-      audio: 'https://www.xeno-canto.org/sounds/uploaded/ZNCDXTUOFL/XC518928-AB-017%20dzi%C4%99cio%C5%82%20du%C5%BCy%20agresja%20%282%29.mp3'
-    },
-    {
-      id: 5,
-      name: 'Удод',
-      species: 'Upupa epops',
-      description: 'Удоды предпочитают жить на открытых ландшафтах с отдельными деревьями или рощами. Наиболее удобными для птицы являются лесостепь и саванна. Удод может выбирать места жительства рядом с человеком: пастбища, виноградники, фруктовые сады.',
-      image: 'https://live.staticflickr.com//65535//49226383598_6f8be86a06.jpg',
-      audio: 'https://www.xeno-canto.org/sounds/uploaded/ZNCDXTUOFL/XC477326-dudek%20%282%29.mp3'
-    },
-    {
-      id: 6,
-      name: 'Стриж',
-      species: 'Apus apus',
-      description: 'Стрижа можно увидеть практически в каждом уголке планеты. Они обитают как в лесных зонах, так и на открытых местностях. Живут стрижи крупными стаями. Большие колонии этих птиц можно увидеть в городах или на прибрежных скалах.',
-      image: 'https://live.staticflickr.com//65535//48386150031_7b749df74b.jpg',
-      audio: 'https://www.xeno-canto.org/sounds/uploaded/TMUAWSDHDJ/XC511871-G.mp3'
-    }
-  ],
-  [
-    {
-      id: 1,
-      name: 'Жаворонок',
-      species: 'Alauda arvensis',
-      description: 'Жаворонки — перелетные птицы. С начала сентября они отлетают на юг. Возвращаются они в начале марта, независимо от того, сошел снег или нет. По прилету жаворонков определяли наступление весны и пору, когда пора пахать землю.',
-      image: 'https://live.staticflickr.com/65535/47105096764_f751fba568.jpg',
-      audio: 'https://www.xeno-canto.org/sounds/uploaded/ZNCDXTUOFL/XC462158-Skowronek_Alauda_arvensis_Poland_Jarek_Matusiak_%20-006%20skowronek%20%282%29.mp3'
-    },
-    {
-      id: 2,
-      name: 'Соловей',
-      species: 'Luscinia luscinia',
-      description: 'Соловьи поют с начала мая и до конца лета. Каждая песня соловья состоит из 12 повторяющихся элементов, которые еще называют коленами. Кроме собственных трелей, соловьи легко и хорошо перенимают пение других птиц.',
-      image: 'https://live.staticflickr.com/7605/27669397735_f3c21758f2.jpg',
-      audio: 'https://www.xeno-canto.org/sounds/uploaded/HILVWSADVL/XC513809-R07_0052%20Thrush%20Nightingale%20Snipe.mp3'
-    },
-    {
-      id: 3,
-      name: 'Скворец',
-      species: 'Sturnus vulgaris',
-      description: 'Скворцы - перелётные птицы. Синхронный перелет больших стай скворцов называется мурмурацией. Это красивое и завораживающее явление – множество птиц будто танцуют в воздухе, образуя замысловатые фигуры, которые уменьшаются и увеличиваются в небе.',
-      image: 'https://live.staticflickr.com/65535/49357593971_9509fe1d7c.jpg',
-      audio: 'https://www.xeno-canto.org/sounds/uploaded/GYAUIPUVNM/XC515519-2020.01.01_17.24_01.MP3'
-    },
-    {
-      id: 4,
-      name: 'Иволга',
-      species: 'Oriolus oriolus',
-      description: 'Мелодичность голоса иволги сравнивают со звучанием флейты. Человеку сложно разглядеть иволгу, так как она обитает высоко на деревьях. Иволга не только очень красивая, но и  полезная птица. Она уничтожает ядовитых гусениц, которых не поедают другие птицы.',
-      image: 'https://live.staticflickr.com/65535/47102184004_58a93380b9.jpg',
-      audio: 'https://www.xeno-canto.org/sounds/uploaded/GYAUIPUVNM/XC491801-2019.07.07_06.28_01.mp3'
-    },
-    {
-      id: 5,
-      name: 'Свиристель',
-      species: 'Bombycilla garrulus',
-      description: 'У свиристели очень цепкие коготки, что помогает птице удерживаться на ветках и склевывать ягоды, которые труднее всего достать. В период ухаживаний самец предлагает самке ягоду или другое угощение. Если самка его принимает, то птицы создают пару.',
-      image: 'https://live.staticflickr.com//65535//49367433842_1b06da0e6b.jpg',
-      audio: 'https://www.xeno-canto.org/sounds/uploaded/ZNCDXTUOFL/XC517421-AB-004%20%282%29%20jemio%C5%82uszka.mp3'
-    },
-    {
-      id: 6,
-      name: 'Щегол',
-      species: 'Carduelis carduelis',
-      description: 'Щеглы поют красиво и мелодично. И в природе, и в неволе они щебечут почти круглый год. В пении щегла различают более 20 переливчатых трелей. Щеглы привыкают к людям, и даже могут возвратиться к хозяину после того, как их выпустили на волю',
-      image: 'https://live.staticflickr.com//65535//49366257253_db3ce48b9a.jpg',
-      audio: 'https://www.xeno-canto.org/sounds/uploaded/VOLIQOYWKG/XC489265-190724_07.58h_putter_biesbosch_%20boompjes%20langs%20open%20water_zang_1ex_ad_niet%20gezien_.mp3'
-    }
-  ],
-  [
-    {
-      id: 1,
-      name: 'Орёл',
-      species: 'Aquila nipalensis',
-      description: 'В древние времена орел был символом солнца. Орлы часто парят над землей, при этом скорость их перемещения может достигать 240 км/ч. Иллюзия медленного движения происходит из-за высоты полета – более 700 метров',
-      image: 'https://live.staticflickr.com//4835//43867392960_7105d71e19.jpg',
-      audio: 'https://www.xeno-canto.org/sounds/uploaded/KTBTZAHSXF/10_Aquila_nipalensis_al02D85.mp3'
-    },
-    {
-      id: 2,
-      name: 'Коршун',
-      species: 'Milvus migrans',
-      description: 'Коршуны – крупные хищники, в высоту они достигают около полуметра, а вес взрослых особей достигает 1 кг. Крылья узкие и длинные, их размах составляет 1,5 м. Коршуны часто гнездятся большими стаями и даже образуют крупные колонии.',
-      image: 'https://live.staticflickr.com//65535//48701190276_ee2a9ed594.jpg',
-      audio: 'https://www.xeno-canto.org/sounds/uploaded/SDPCHKOHRH/XC485740-2019-06-22%20Selenga%20Milan%20brun%20cris%20de%20quemandage%203.mp3'
-    },
-    {
-      id: 3,
-      name: 'Лунь',
-      species: 'Circus cyaneus',
-      description: 'Лунь – это небольшой сокол. Питается в основном мышевидными грызунами, основа его рациона – полёвки, хомяки, мыши. Оперение луня может быть пепельно-серым. С такой птицей связано сравнение «седой, как лунь».',
-      image: 'https://givotniymir.ru/wp-content/uploads/2018/01/stepnoj-lun-ptica-opisanie-i-osobennosti-stepnogo-lunya-1.jpeg',
-      audio: 'https://www.xeno-canto.org/sounds/uploaded/BLMSIUFTFU/XC513498-190709_1175_Cir.cyan-f.mp3'
-    },
-    {
-      id: 4,
-      name: 'Сокол',
-      species: 'Falco peregrinus',
-      description: 'Латинское название сокола Falco произошло от слова «серп» из-за серповидной формы крыльев. Длинные и широкие крылья позволяют соколу высоко подниматься в небо и свободно парить. Скорость полёта сокола достигает 280-320 километров в час.',
-      image: 'https://live.staticflickr.com//65535//49310710607_92a3a145a9.jpg',
-      audio: 'https://www.xeno-canto.org/sounds/uploaded/MMEJYLOPDO/XC496049-Pilgrimsfalk_06.mp3'
-    },
-    {
-      id: 5,
-      name: 'Ястреб',
-      species: 'Accipiter gentilis',
-      description: 'Для всех ястребов характерны широкие и короткие крылья. Ещё один отличительный признак - белые «брови» над глазами. Славянские дружинники размещали изображение ястреба на своих знаменах, как символ отваги, мощи и безжалостности к врагам.',
-      image: 'https://live.staticflickr.com//65535//49024617331_b9d0d2c9b3.jpg',
-      audio: 'https://www.xeno-canto.org/sounds/uploaded/MMEJYLOPDO/XC512740-Duvh%C3%B6k_09.mp3'
-    },
-    {
-      id: 6,
-      name: 'Филин',
-      species: 'Bubo bubo',
-      description: 'Полет филина бесшумный, зрение очень острое. Эти особенности делают птицу непревзойденным ночным охотником. У филина нет естественных врагов, ни один зверь не охотится на взрослых птиц. А вот на птенцов нападают лисы и волки.',
-      image: 'https://live.staticflickr.com/65535/48137123012_393653c2e4.jpg',
-      audio: 'https://www.xeno-canto.org/sounds/uploaded/WNLIDKJKXT/XC518386-sense%20t%C3%ADtol.mp3'
-    }
-  ],
-  [
-    {
-      id: 1,
-      name: 'Альбатрос',
-      species: 'Diomedea exulans',
-      description: 'Альбатрос - самая крупная летающая птица в мире. Размах крыльев достигает три с половиной, вес - десять килограммов. Большую часть жизни альбатросы проводят в воздухе, покрывая над океанскими просторами огромные расстояния',
-      image: 'https://live.staticflickr.com/7557/16260253965_8e9430cb66.jpg',
-      audio: 'https://www.xeno-canto.org/sounds/uploaded/WOEAFQRMUD/XC293087-Diomedea%20exulans151120_T254.mp3'
-    },
-    {
-      id: 2,
-      name: 'Олуша',
-      species: 'Sula nebouxii',
-      description: 'Особенностью голубоногой олуши является не только насыщенный ярко-синий цвет лапок, но еще и тот факт, что они очень теплые. В то время как другие виды птиц греют кладки своим телом, голубоногая олуша делает это с помощью лапок',
-      image: 'https://live.staticflickr.com/800/40645471394_4422e69ed8.jpg',
-      audio: 'https://www.xeno-canto.org/sounds/uploaded/YHKQPPJDVP/XC411507-171217_1491%20BF%20Booby%205ft%20IDLP%201230%20mp3%20amp.mp3'
+      name: 'Вьюрок',
+      species: 'Fringilla montifringilla',
+      description: 'Вьюрок или юрок — вид певчих птиц из семейства вьюрковых. Из всех вьюрковых у него наблюдается наиболее выраженное перелётное поведение. Величина вьюрка соответствует величине воробья.',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/b/ba/Fringilla_montifringilla_4_%28Martin_Mecnarowski%29.jpg',
+      audio: 'https://www.xeno-canto.org/sounds/uploaded/BZVYBRUAAE/XC324584-Tibetan%20Snowfinch_Rouergai_Sichuan_27%20May%202016_160528_01%20-%20trimmed.mp3'
     },    
     {
       id: 3,
-      name: 'Буревестник',
-      species: 'Puffinus griseus',
-      description: 'Размеры буревестниковых разные. Самые маленькие из них в длину составляют до 25 см, самые большие - до 1 м, при размахе крыльев около 2 м. Существует поверье, что появление буревестника в воздухе предвещает бурю, о чем говорит само название птицы.',
-      image: 'https://live.staticflickr.com//607//22136056020_935cb113f9.jpg',
-      audio: 'https://www.xeno-canto.org/sounds/uploaded/XQEVNREHJY/SHEARWATER%20Christmas%20Island_04_Motu_Isla%20de%20Pascua-Easter%20Island_CH_4MAR03_Alvaro%20Jaramillo.mp3'
+      name: 'Обыкновенный щур',
+      species: 'Pinicola enucleator',
+      description: 'Обыкновенный щур — птица семейства вьюрковые. Обитает в хвойных лесах таёжной зоны. Питается семенами хвойных деревьев и ягодами. Птица размером со скворца, плотного сложения, с толстым, коротким, чуть крючковатым клювом и сравнительно длинным вырезанным хвостом. ',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/8/8c/Pinicola-enucleator-001B.jpg',
+      audio: 'https://www.xeno-canto.org/sounds/uploaded/QBVYYBZQKH/XC514735-Red-bearded%20Bee-eater-calls-1-3-Xeno-Ipoh%2C%20Perak%2C%20Malaysia-8th%20August%202019.mp3'
     },
     {
       id: 4,
-      name: 'Пеликан',
-      species: 'Pelecanus',
-      description: 'Пеликаны — обитатели морей и рек. Ходят они неуклюже, но хорошо летают и плавают. Питаются в основном рыбой, устраивают коллективные охоты — выстроившись полукругом хлопают по воде крыльями и клювами и вытесняют напуганную рыбу на мелководье.',
-      image: 'https://animalreader.ru/wp-content/uploads/2015/10/rozovyj-pelikan-vneshnij-vid-foto-i-video-animalreader.ru-002.jpg',
-      audio: 'https://www.xeno-canto.org/sounds/uploaded/XAMHIHFTZG/XC331138-call1.mp3'
+      name: 'Клёст-сосновик',
+      species: 'Loxia pytyopsittacus',
+      description: 'Клёст-сосновик — певчая птица семейства вьюрковых (Fringillidae).Довольно крупный вид клестов: длина его тела составляет от 16 до 18 см. Окраска оперения идентична окраске оперения клеста-еловика.',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Loxia_pityopsittacus_NAUMANN.jpg/271px-Loxia_pityopsittacus_NAUMANN.jpg',
+      audio: 'https://www.xeno-canto.org/sounds/uploaded/RFGQDPLDEC/XC535315-Furukorsnebb%201%20XC%20Stange%20Refsal%20Elias%20A.%20Ryberg20200312110733_111.mp3'
     },
     {
       id: 5,
-      name: 'Пингвин',
-      species: 'Aptenodytes forsteri',
-      description: 'Самец императорского пингвина достигает роста 130 см, его масса может приближаться к 50 кг. Из всех современных пингвинов этот вид – самый крупный. Питание пингвина состоит из рыбы, кальмаров и криля. Охотятся птицы в океане большими группами.',
-      image: 'https://live.staticflickr.com/5202/5252413926_8e013a3efd.jpg',
-      audio: 'https://www.xeno-canto.org/sounds/uploaded/OOECIWCSWV/XC449827-LS100829%20King%20Penguin%20call%20A.mp3'
+      name: 'Обыкновенная чечевица',
+      species: 'Carpodacus erythrinus',
+      description: 'Обыкновенная чечевица — птица семейства вьюрковых.Размером с воробья. У взрослого самца спина, крылья и хвост красновато-бурые, голова и грудь ярко-красные', //брюшко (а у птиц из восточной части ареала — нередко и грудь) белое с розовым оттенком. Самки и молодые птицы буровато-серые, брюшко светлее спины.',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Dziwonia%28Carpodacus_erythrinus%29cropped.jpg/275px-Dziwonia%28Carpodacus_erythrinus%29cropped.jpg',
+      audio: 'https://www.xeno-canto.org/sounds/uploaded/LHKLVTXBWH/XC575827-Ciuffolotto%20scarlatto%2000%2C55%20Sergio.mp3'
     },
     {
       id: 6,
-      name: 'Чайка',
-      species: 'Larus argentatus',
-      description: 'Чайки населяют берега морей, озёр, рек, водохранилищ, болот, часто гнездятся на островах. С конца прошлого века чайки стали появляться в крупных городах, где устраивает гнёзда на крышах зданий. Все чайки ведут колониальный образ жизни.',
-      image: 'https://live.staticflickr.com/65535/48577115317_7034201dde.jpg',
-      audio: 'https://www.xeno-canto.org/sounds/uploaded/VOLIQOYWKG/XC501190-190801_06.50h_zilvermeeuw_duinen%20van%20goeree_roep_2ex_overvliegend_gezien_.mp3'
+      name: 'Чиж',
+      species: 'Carduelis spinus',
+      description: 'Чиж — один из видов певчих птиц из семейства вьюрковых, отряда воробьинообразных. Распространён в Евразии, как правило, в хвойных лесах. Чижей часто держат в домашних условиях, в клетках, ради их пения.',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/3/3a/Carduelis_spinus_female.jpg',
+      audio: 'https://www.xeno-canto.org/sounds/uploaded/MDZVOPUOXU/XC483003-190615_11.lawrences.goldfinch.big.rock.creek.cg.lance.benner.mp3'
     }
   ]
 ];

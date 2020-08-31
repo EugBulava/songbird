@@ -28,7 +28,7 @@ export function Choice() {
         event.target.setAttribute('clicked','')
         const audioFail = new Audio();
         audioFail.preload = 'auto';
-        audioFail.src = 'https://birds-quiz.netlify.app/static/media/error.165166d5.mp3';
+        audioFail.src = 'https://zvukipro.com/uploads/files/2018-10/1540309318_100-k-1-wrong-answer.mp3';
         audioFail.play();
       }
     } else {
@@ -36,7 +36,7 @@ export function Choice() {
         event.target.firstChild.style = 'background-color: green'
         store.dispatch(enableButton());
 
-        //document.querySelector('.about-bird').querySelector('.audio-player').pause();
+        document.querySelector('.about-bird').querySelector('audio').pause();
 
         const events = [scorePlusFive,scorePlusFour, scorePlusThree, scorePlusTwo, scorePlusOne];
 
@@ -53,9 +53,10 @@ export function Choice() {
         document.querySelectorAll('.bird-choice').forEach((el) => {
           el.setAttribute('clicked','');
         })
+
         const audioWin = new Audio();
         audioWin.preload = 'auto';
-        audioWin.src = 'https://birds-quiz.netlify.app/static/media/win.a1e9e8b6.mp3';
+        audioWin.src = 'https://zvukipro.com/uploads/files/2018-10/1540309297_line_open.mp3';
         audioWin.play();
       }
     }

@@ -17,11 +17,11 @@ export function Categories() {
   })
 
   return (<ul className="categories">
-    <li className="category category-first category-active">Разминка</li>
-    <li className="category">Воробьиные</li>
-    <li className="category">Лесные птицы</li>
-    <li className="category">Певчие птицы</li>
-    <li className="category">Хищные птицы</li>
-    <li className="category category-last">Морские птицы</li>
+    <li className="category category-first category-active">Курообразные</li>
+    <li className="category">Гусеобразные</li>
+    <li className="category">Голенастые</li>
+    <li className="category">Ржанкообразные</li>
+    <li className="category">Синицевые</li>
+    <li className="category category-last">Вьюрковые</li>
   </ul>)
 }
