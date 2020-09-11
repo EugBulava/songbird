@@ -1,0 +1,47 @@
+.questions {
+  display: flex;
+  justify-content: space-between;
+  border-radius: 5px;
+  background-color: #303030;
+  margin: 0 10px 0 10px;
+}
+
+.bird-image img {
+  width: 200px;
+  height: 155px;
+  border-radius: 10px;
+}
+
+.about-bird {
+  display: flex;
+  flex-direction: column;
+}
+
+.bird-image {
+  padding: 15px 0px 15px 20px;
+}
+
+.about-bird {
+  padding: 25px 25px 15px 25px;
+  width: 75%;
+}
+
+.bird-name {
+  padding-bottom: 20px;
+  border-bottom: 2px solid #555;
+  color: #fff;
+  font-size: 20px;
+  -moz-user-select: none; 
+  -ms-user-select: none; 
+  -o-user-select: none;
+  -webkit-user-select: none;
+}
+
+audio {
+  padding-top: 30px;
+  width: 100%;
+}
+
+audio:focus {
+  outline: none;
+}
