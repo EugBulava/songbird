@@ -1,0 +1,31 @@
+.category-list {
+  margin: 0;
+  padding: 0;
+  margin-top: 20px;
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+}
+
+.category {
+  display: inline-block;
+  width: 150px;
+  height: 30px;
+  color: #ffffff;
+  padding-top: 10px;
+  text-align: center;
+  background-color: #008966;
+  user-select: none;
+}
+
+.category:first-child {
+  border-radius: 6px 0 0 6px;
+}
+
+.category:last-child {
+  border-radius: 0 6px 6px 0;
+}
+
+.active {
+  background-color: #00bc8c;
+}

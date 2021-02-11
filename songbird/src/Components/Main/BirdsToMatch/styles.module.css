@@ -1,0 +1,47 @@
+.birdList-container {
+  flex-basis: 45%;
+}
+
+.birdsList {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.bird {
+  cursor: pointer;
+  display: flex;
+  color: #ffffff;
+  height: 40px;
+  border: 1px solid #555;
+  padding-top: 20px;
+  background-color: #303030;
+}
+
+.bird:hover {
+  background-color: #444;
+}
+
+.bird:first-child {
+  border-radius: 10px 10px 0 0;
+}
+
+.bird:last-child {
+  border-radius: 0 0 10px 10px;
+}
+
+.circle {
+  width: 15px;
+  height: 15px;
+  background-color: #444;
+  border-radius: 50%;
+  margin: 2px 20px;
+}
+
+.red-circle {
+  background-color: red;
+}
+
+.green-circle {
+  background-color: green;
+}

@@ -1,0 +1,31 @@
+.bird-container {
+  flex-basis: 45%;
+  border: 1px solid #555;
+  border-radius: 10px;
+  background-color: #303030;
+}
+
+.text {
+  color: #ffffff;
+  font-size: 20px;
+  margin: 0;
+  text-align: center;
+}
+
+.current-bird-container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.bird-image {
+  border-radius: 10px;
+  flex-basis: 50%;
+  max-width: 150px;
+}
+
+.info-container {
+  display: flex;
+  flex-basis: 40%;
+  flex-direction: column;
+}
